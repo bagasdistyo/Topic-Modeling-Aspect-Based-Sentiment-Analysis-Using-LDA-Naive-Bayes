@@ -94,5 +94,14 @@ This project demonstrates how NLP and machine learning can be used to:
 
 ---
 
+---
+
+## 🎞️ Presentation Slides
+
+You can view the full presentation slide deck here:
+
+📎 [Sentiment Analysis of ChatGPT Application Users (Google Drive)](https://drive.google.com/file/d/1Ievpo9NPNtFPJcMLIb2KPyuSA2QHN80Q/view?usp=sharing)
+
+---
 
 
